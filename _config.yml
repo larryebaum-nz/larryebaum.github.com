@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : larryebaum things
-tagline: Site Tagline
+title : larryebaum
+tagline: 
 author :
   name : larry eichenbaum
   email : mail@mail.com
@@ -80,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false #disqus
     disqus :
       short_name : jekyllbootstrap
     livefyre :
