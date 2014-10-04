@@ -1,12 +1,12 @@
 ---
 layout: page
 title: tech, photos and thoughts...
-tagline: 
+tagline: my tag
 ---
 {% include JB/setup %}
 
     
-#### blog posts
+## blog posts
 
 <ul class="posts">
   {% for post in site.posts %}
